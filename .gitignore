@@ -1,0 +1,4 @@
+.tox/
+.local/
+__pycache__
+tests/data.yaml
